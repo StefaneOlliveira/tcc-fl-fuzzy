@@ -11,9 +11,7 @@ O código foi desenvolvido para execução no **Google Colab**.
 
 ## Dataset
 
-O projeto utiliza o dataset **UCI Human Activity Recognition Using Smartphones (UCI-HAR)**.
-
-O dataset é baixado e preparado automaticamente durante a execução do notebook.
+O projeto utiliza o dataset **UCI Human Activity Recognition Using Smartphones (UCI-HAR)**, que é baixado e preparado automaticamente durante a execução do notebook.
 
 ## Métodos desenvolvidos
 
